@@ -30,6 +30,12 @@ ul {
   min-width: 250px;
 }
 
+.sticky {
+  position: sticky;
+  top: 0;
+  background-color: #ffffffb0;
+}
+
 .navigation {
   list-style-type: none;
   border-top: 1px solid var(--light-grey);
